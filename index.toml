@@ -81,6 +81,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
@@ -251,6 +256,11 @@ hash = "7e3b444e05717f18ae3e24e96330538bc5a9c6478bb3b98c529ded1b2541981b"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "124b2e8a98bf33885b2df0526c8762cd5d3fcc10232dcc8fea3708690930c7ee"
 metafile = true
@@ -266,6 +276,21 @@ hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
 file = "mods/xnet.pw.toml"
 hash = "c57e35d2946ac0717a3600d2b76264a92c7a5c0d39190478b7b3e8ece2b0a2f9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "092f2c20fc221bc08c13c2aa0238fe27c36bc88e85ce930db4d5bd9fd60fc96d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "8046bfec2206ca605e19cf458ba78d916ce3fafa1ccd9ff07ce0712a45a4063d"
 metafile = true
