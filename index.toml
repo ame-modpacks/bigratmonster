@@ -51,6 +51,11 @@ hash = "513bfca78fa8de750dbc620919391b839975c1ce4b7c2f3891c1f963476a8d6a"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "5bc8af8e18b5068e0a0286688a99ca730800d592f5a3f0ea2ad560e495f0e5eb"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "25fe154bfa2a22c87052e3998400acabd149a79d85ed3929283b822e5c581a50"
 metafile = true
 
 [[files]]
