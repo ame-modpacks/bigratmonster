@@ -36,6 +36,11 @@ hash = "d02b891b8549c4bacda20466c941001255efd7f184f5ff6bd662ef90c9f6de95"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
 metafile = true
@@ -101,6 +106,11 @@ hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
+metafile = true
+
+[[files]]
 file = "mods/durts-nether-dungeons.pw.toml"
 hash = "4d09c0f46cdd5e40534ae2306541e13372f2ba4448fd20341d2f00ebdd02927b"
 metafile = true
@@ -136,6 +146,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "8ee03cc11e08cc40ada8804d1e7b7373fcd5b7c2ee0f84b470cdbbbf7fab038d"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
 metafile = true
@@ -166,6 +181,11 @@ hash = "0daa6f3e2326ab0ea10690d67edadcdd6ceb9a220515aa69791f2b7a0405ed80"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "1d94c48c40c658e9e125f9246ab18b4d4ca2818c2fcac5018b56684850b5b164"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "382df961def33d0ddba922ffea33edd99386b6b3c8f7b437153a145345866fa2"
 metafile = true
@@ -178,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "e7695cb9ca190c1da74abbc43643d63f94cf517163756c4615c84d83fa72240b"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "0e1d21d80db82252737a2d9f8ca4a3027c3c08c45e8a2f0325f966aed9b02e09"
 metafile = true
 
 [[files]]
@@ -196,6 +221,11 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
+file = "mods/occultism.pw.toml"
+hash = "e6ceb9a2a39deb5ddac21c619fec7686131a883b06cc137cb1519f677e5ecd37"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "5bc8af8e18b5068e0a0286688a99ca730800d592f5a3f0ea2ad560e495f0e5eb"
 metafile = true
@@ -207,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
@@ -248,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "dd5ccaaae648cbf9ee760bcaba27756fa6d16df28dd288893415290d70b52fd7"
 metafile = true
 
 [[files]]
