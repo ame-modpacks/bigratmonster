@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "bbf54e3ab7bf62d7711bc7e0cd2a46cec142cbb03eeed2ef4599e77896b4c16c"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "becc9f331f62d5c31b0e9abce703297f8a51d8a4baf4f2466552555bc5b15dd1"
 metafile = true
