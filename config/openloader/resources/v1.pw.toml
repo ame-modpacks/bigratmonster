@@ -1,0 +1,7 @@
+name = "v1"
+filename = "v1ultrakill.zip"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1132349140622397481/1201909982677970964/v1ultrakill.zip?ex=66292366&is=6627d1e6&hm=70bfced837ccf1c1bc6314612f81f699d2974108e4abf3008c1712f5297f1f0a&"
+hash-format = "sha256"
+hash = "162f9260cae8f5a02c7baad4f43250d56cee0a8f916c2e23a9f917b0e450c51a"
