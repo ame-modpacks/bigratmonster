@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "b5022cf3e1f37e208e93c59e30de796971029f21fb365237cdc35d3e87951989"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
 
 [[files]]
@@ -63,6 +78,16 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "0daa6f3e2326ab0ea10690d67edadcdd6ceb9a220515aa69791f2b7a0405ed80"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "5bc8af8e18b5068e0a0286688a99ca730800d592f5a3f0ea2ad560e495f0e5eb"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "f6a2f94c35012205f0f4f24e6334ab7f38197445d14634fb0f5767e466dd6cf6"
 metafile = true
 
 [[files]]
