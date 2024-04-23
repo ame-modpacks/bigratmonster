@@ -66,6 +66,11 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "cdc8386b87895775e3f4cc5624c43efd6a3610516864a7f507adb70c2c3a12f1"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
 metafile = true
@@ -141,6 +146,21 @@ hash = "0daa6f3e2326ab0ea10690d67edadcdd6ceb9a220515aa69791f2b7a0405ed80"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "382df961def33d0ddba922ffea33edd99386b6b3c8f7b437153a145345866fa2"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "38a79d992a5b4c5f528a97e4dc556943976a3c1dcbbbf61dc7581feacfcd1020"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "e7695cb9ca190c1da74abbc43643d63f94cf517163756c4615c84d83fa72240b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
@@ -161,13 +181,28 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "1ac2f1dd12beba63da748429f8f7478f193ea693c994c0b2582bccc88b803f7f"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "f6a2f94c35012205f0f4f24e6334ab7f38197445d14634fb0f5767e466dd6cf6"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "56ceaaa03bebe47af0cab04dba631fd17269a75f079ecf368e1cd90131a67073"
 metafile = true
 
 [[files]]
@@ -216,6 +251,21 @@ hash = "7e3b444e05717f18ae3e24e96330538bc5a9c6478bb3b98c529ded1b2541981b"
 metafile = true
 
 [[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "124b2e8a98bf33885b2df0526c8762cd5d3fcc10232dcc8fea3708690930c7ee"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "c98ac240e9bc3eb8bcd7711c5bd65535dce3b38f539563b9b4882f93c3929831"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "5f7c7bb29895141d57fdc32823a169e3a851176760f8ceed6c00bc109b4288df"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "c57e35d2946ac0717a3600d2b76264a92c7a5c0d39190478b7b3e8ece2b0a2f9"
 metafile = true
