@@ -1,0 +1,13 @@
+name = "bigratmonster"
+author = "AmeMeida"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f892c98ae05c3f88cc0b041c293afa5d7e9a4d8ead4b1e41a432686ca8deff3"
+
+[versions]
+forge = "47.2.30"
+minecraft = "1.20.1"
