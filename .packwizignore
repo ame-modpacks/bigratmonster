@@ -1,0 +1,6 @@
+.github/**
+/*.zip
+*.mrpack
+README*
+
+local/**
