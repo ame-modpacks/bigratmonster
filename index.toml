@@ -244,11 +244,6 @@ hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
 
 [[files]]
-file = "mods/durts-nether-dungeons.pw.toml"
-hash = "4d09c0f46cdd5e40534ae2306541e13372f2ba4448fd20341d2f00ebdd02927b"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "967c15c5b3adc4cccffb0b4143cf99b944ab896215fe0358975e887856d14d5c"
 metafile = true
@@ -491,26 +486,6 @@ metafile = true
 [[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "7e3b444e05717f18ae3e24e96330538bc5a9c6478bb3b98c529ded1b2541981b"
-metafile = true
-
-[[files]]
-file = "mods/tetra.pw.toml"
-hash = "7cd5ba3f6e15a5bb367a6e7e3549f2f89b86e8936fc1e3de959ce47068abd991"
-metafile = true
-
-[[files]]
-file = "mods/tetracelium.pw.toml"
-hash = "8164fd27023d823cf34ddee1850c0e75bc6d9d178cf58bb93576ce42588e98e8"
-metafile = true
-
-[[files]]
-file = "mods/tetranomicon.pw.toml"
-hash = "aad2682b1c54883c1a48e288782281b694c4ce1c630ddbfdad11ee2429562fbe"
-metafile = true
-
-[[files]]
-file = "mods/tetras-delight.pw.toml"
-hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
