@@ -119,6 +119,11 @@ file = "config/openloader/data/xp management v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "7557e4c73976a9c41a4b310fb2d1ab2408528ef6a17707ec8d828802a6f1589e"
 
 [[files]]
+file = "mods/aether-delight.pw.toml"
+hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "bbf54e3ab7bf62d7711bc7e0cd2a46cec142cbb03eeed2ef4599e77896b4c16c"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7ae86f78307485e26ba7c762c19f720c42baa617a5a91bb29f63fd2d318f2113"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "4ae74554aeb63b9c955755fde32e8d0123b213c0dbd803fe9c5135be6fbe11c4"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "8ee03cc11e08cc40ada8804d1e7b7373fcd5b7c2ee0f84b470cdbbbf7fab038d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "8cd77a97116580e66553c94d96c9f14ec7cf83261056e108d029092ab53086ab"
 metafile = true
 
 [[files]]
