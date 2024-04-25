@@ -119,11 +119,6 @@ file = "config/openloader/data/xp management v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "7557e4c73976a9c41a4b310fb2d1ab2408528ef6a17707ec8d828802a6f1589e"
 
 [[files]]
-file = "mods/aether-delight.pw.toml"
-hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "bbf54e3ab7bf62d7711bc7e0cd2a46cec142cbb03eeed2ef4599e77896b4c16c"
 metafile = true
