@@ -304,6 +304,11 @@ hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "33466bb8e4a189bc2fc7e456f0f06c94979b87141fb064706f96b1ff7ead74d3"
 metafile = true
@@ -331,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "0daa6f3e2326ab0ea10690d67edadcdd6ceb9a220515aa69791f2b7a0405ed80"
-metafile = true
-
-[[files]]
-file = "mods/mana-and-artifice.pw.toml"
-hash = "1d94c48c40c658e9e125f9246ab18b4d4ca2818c2fcac5018b56684850b5b164"
 metafile = true
 
 [[files]]
@@ -536,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "c98ac240e9bc3eb8bcd7711c5bd65535dce3b38f539563b9b4882f93c3929831"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "f29648fa88935462151aeb43e377f99226130f1181d9dfa53279a1801c9d3cee"
 metafile = true
 
 [[files]]
