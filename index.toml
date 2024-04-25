@@ -1,9 +1,123 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/resources/VanillaTweaks_c865864_MC1.20-1.20.4.zip"
+hash = "ca3ab1883062378ba910672ab8347a73473fe0b466c51c52dcf1aeb7962daa22"
+
+[[files]]
+file = "config/openloader/resources/afk display v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "d9c90234d9bd255da525486e8c10c8fadad03c7ba1e62c4e2211c09d68a6cd7e"
+
+[[files]]
+file = "config/openloader/resources/armor statues v2.8.11 (MC 1.20-1.20.4).zip"
+hash = "46b6af287c4befd37db8ed3d9909eaea10d4dc7f1e0f3be7f7f0d297430bcdd5"
+
+[[files]]
+file = "config/openloader/resources/cauldron concrete v2.0.9 (MC 1.20-1.20.4).zip"
+hash = "00f04b3f7693760231de40d5c454a0e8b350452965d3ca7ebbae3ff22148af8b"
+
+[[files]]
+file = "config/openloader/resources/classic fishing loot v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "c9f4c045262313fbf5d1788efeb6b4624bb486f9068af867e674ad3adc40d389"
+
+[[files]]
+file = "config/openloader/resources/confetti creepers v2.2.7 (MC 1.20-1.20.4).zip"
+hash = "9687b5b1eead98257da480a65dd1a3c205412fb1e24c1f8ada69865eda75281d"
+
+[[files]]
+file = "config/openloader/resources/custom nether portals v2.3.9 (MC 1.20-1.20.4).zip"
+hash = "47ce331c3fc111c186e870ff6f6118573f087c0365e762f8fe2f6b769ae486c4"
+
+[[files]]
+file = "config/openloader/resources/custom villager shops v1.2.6 (MC 1.20-1.20.4).zip"
+hash = "1812bf7c7db7ff295a04affd1abd4ef41faf1ee1add8ccb0de5a4cb5c8b2265a"
+
+[[files]]
+file = "config/openloader/resources/double shulker shells v1.3.6 (MC 1.20-1.20.4).zip"
+hash = "599bee2556874d8b78b59b9665ef6edbda47e0fe516b58cbfcfffa2ec01fb0ff"
+
+[[files]]
+file = "config/openloader/resources/fast leaf decay v2.0.9 (MC 1.20-1.20.4).zip"
+hash = "cd8d53b5c8acaeaf29405e7f31f7c4affa7f441ca15b027e9fa42525ed8a6f1c"
+
+[[files]]
+file = "config/openloader/resources/kill empty boats v1.1.7 (MC 1.20-1.20.4).zip"
+hash = "602f6060b17f580955b3535f4afa36effd33a63720aa29c77026b1d2237e53bf"
+
+[[files]]
+file = "config/openloader/resources/larger phantoms v1.2.7 (MC 1.20-1.20.4).zip"
+hash = "03ed06610bd99146056793966de8b9a6ede4a5f195d5aa3e1b4156cb49de3da6"
+
+[[files]]
+file = "config/openloader/resources/multiplayer sleep v2.6.6 (MC 1.20-1.20.4).zip"
+hash = "bc8a2f1b2df61e8104f2a012bad811f783b520305429be06acbb7d5b42390dda"
+
+[[files]]
+file = "config/openloader/resources/nether portal coords v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "ab00cc043045666b94abf1d4cb0e366b844812fb57a38181bce44c0974cbe3a8"
+
+[[files]]
+file = "config/openloader/resources/pillager tools v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "e8e20ffd225474c821c4e4a3acb02b33123b63239ec0037dfa3a814cd80ac8af"
+
+[[files]]
+file = "config/openloader/resources/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "73c5bdbdc45dec651d32ad990d354914f6f3710cdd14899ba0776d425732a05a"
+
+[[files]]
+file = "config/openloader/resources/real time clock v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "ac973f84f4a6f3c0337bded554afe733cd38ddd0373a1e498dfb77b1cc6a0d25"
+
+[[files]]
+file = "config/openloader/resources/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "cb0623f7f10887d9eb69f8ddab8ea0743f982bd87c8f2928068fed1b411fcc02"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/silence mobs v1.2.1 (MC 1.20-1.20.4).zip"
+hash = "835b8b5eaa2b2898735003f726b21e74e3eb773c7479b90288ad2aac37514262"
+
+[[files]]
+file = "config/openloader/resources/spectator conduit power v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "c346e5b71f1022774228afce3ce5ea40b62b3af21aaa10244ec4bbe9cb7aede3"
+
+[[files]]
+file = "config/openloader/resources/spectator night vision v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "5c653e98633b39eda92b50c3437a20dd8f9cb0b2c10a5ad20d5b4863c336e24a"
+
+[[files]]
+file = "config/openloader/resources/thunder shrine v1.1.7 (MC 1.20-1.20.4).zip"
+hash = "e5dd015722ca01888ba1dc78e489c82ff9a715b14e2e0d2ebea1e1b02ba4b79a"
+
+[[files]]
+file = "config/openloader/resources/timber v2.1.8 (MC 1.20-1.20.4).zip"
+hash = "3b692c7774270f3cc0bebd3fe4370733764233998728b8d5247a20881dfd5dd3"
+
+[[files]]
+file = "config/openloader/resources/towers-of-the-wild-reworked.pw.toml"
+hash = "08369e39217c9ae0e3beab4a61cf6d8574cbd3ab4d4c9e25d03f0b392388774c"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/track raw statistics v1.7.2 (MC 1.20-1.20.4).zip"
+hash = "75b04879863607b08eaa9f3f0e8642bda04bc08c6963553032e92ee8df2e8166"
+
+[[files]]
+file = "config/openloader/resources/track statistics v1.1.7 (MC 1.20-1.20.4).zip"
+hash = "16c99031e19aadcc34abf121ada9f0d4e8477b449ed325d52902faa7dd11438a"
+
+[[files]]
 file = "config/openloader/resources/v1.pw.toml"
 hash = "a07d459dddc043c41f25221841db09cacbac5cb0e53a6d8adb00babc333a070f"
 metafile = true
+
+[[files]]
+file = "config/openloader/resources/villager workstation highlights v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "765112fd19412bd71f0a48f887a5a99c750efbb4a4f247091166ed55ea69b28e"
+
+[[files]]
+file = "config/openloader/resources/xp management v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "7557e4c73976a9c41a4b310fb2d1ab2408528ef6a17707ec8d828802a6f1589e"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -18,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "c04fd90b29363ba69b62d7aa71a15657343d6d0ecdd96b6f0ae2e912d70315ec"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
@@ -106,6 +225,11 @@ hash = "e29577d9983ad1e32e31262ed620cd41eed7074d83cd3c5d0849dd207539cc46"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
@@ -131,6 +255,11 @@ hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
 metafile = true
 
 [[files]]
+file = "mods/eidolon-repraised.pw.toml"
+hash = "e40665221700396eb64ed7952a23e09ff298d2c736f9d691364eb1a3a7b26e42"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "56ba4521e19908bbca80a4832c3acf92683ea2376e808628e5ae775b1857f304"
 metafile = true
@@ -148,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "edeefca9053ee0da1511185568d0241798273fb7d03ed09f7b5fd3dbbbc582bb"
 metafile = true
 
 [[files]]
@@ -236,6 +370,11 @@ hash = "5bc8af8e18b5068e0a0286688a99ca730800d592f5a3f0ea2ad560e495f0e5eb"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
 metafile = true
@@ -251,6 +390,11 @@ hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "3553b15512a2e368b1d61be28ca92e6084999c00fcc21a07f6a282005739273c"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "1ac2f1dd12beba63da748429f8f7478f193ea693c994c0b2582bccc88b803f7f"
 metafile = true
@@ -258,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "70b949dab65474c3687c98063f66282c7a580e0bf82f33615fac247fdc29019b"
 metafile = true
 
 [[files]]
@@ -283,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "852aae4cac2057a25eed55d5ab00b91a4dcc8603bf63168cfcfdb36ad7b41ddc"
 metafile = true
 
 [[files]]
@@ -358,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "c98ac240e9bc3eb8bcd7711c5bd65535dce3b38f539563b9b4882f93c3929831"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
 
 [[files]]
