@@ -239,6 +239,16 @@ hash = "2815c3baf82b4aa2849d6b16ef5e98bf411111a1df8b66242f4080f7eb15979f"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "73d04361ac8c44b7128d1acf9bf4384f8e573ff3308065047f8675112540c9c9"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
@@ -409,6 +419,11 @@ hash = "3553b15512a2e368b1d61be28ca92e6084999c00fcc21a07f6a282005739273c"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "1ac2f1dd12beba63da748429f8f7478f193ea693c994c0b2582bccc88b803f7f"
 metafile = true
@@ -466,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "4c84cf26527d15e63c0793118bb26ea29e4bfb963b1b9bfadb76888f59bb7837"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]
@@ -556,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "7ababc223fcf768c37b1c39061729942d6d7c3fea4b31890efd88d91a0067106"
 metafile = true
 
 [[files]]
