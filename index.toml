@@ -314,11 +314,6 @@ hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -346,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "730ba89a17d690389a748e3d8fdf9ed593926c05d535f240bef34b68314d528a"
-metafile = true
-
-[[files]]
-file = "mods/immersive-armors.pw.toml"
-hash = "8cd77a97116580e66553c94d96c9f14ec7cf83261056e108d029092ab53086ab"
 metafile = true
 
 [[files]]
