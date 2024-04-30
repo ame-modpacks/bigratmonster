@@ -1,12 +1,12 @@
 name = "bigratmonster"
 author = "AmeMeida"
-version = "4.0.0"
+version = "4.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "55ef2798e7ef19388700100080be933557248286898874d6943b2391276489d9"
+hash = "6357a5def02d1c0510cf3ec1b821c269b72ee35a45f38ba6ebf6c74177cd181d"
 
 [versions]
 forge = "47.2.30"

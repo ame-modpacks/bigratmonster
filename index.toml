@@ -444,6 +444,11 @@ hash = "0e1d21d80db82252737a2d9f8ca4a3027c3c08c45e8a2f0325f966aed9b02e09"
 metafile = true
 
 [[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "7eba2a4194baaa285446eae38fd9f0f303e90c5cdd7c884ac60aa0b51594d308"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
