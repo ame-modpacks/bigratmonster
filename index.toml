@@ -414,6 +414,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "7159460e600aaf9f4a000bc71474227d64481bb15ef16fdd423834aa5df4ba9d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "9c29166ac593cc02740a23ead3862f61a78d733e3c72567413ed6ef19f85e182"
 metafile = true
@@ -561,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "799778cc92c55c71a87b656c36e91db943629352868a63bb45962aa6cad04c14"
 metafile = true
 
 [[files]]
