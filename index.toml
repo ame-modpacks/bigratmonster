@@ -589,6 +589,11 @@ hash = "852aae4cac2057a25eed55d5ab00b91a4dcc8603bf63168cfcfdb36ad7b41ddc"
 metafile = true
 
 [[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "493d90f8a2357351d53e72b27e70af82e05fae25e0f4496f540656b6517a1887"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "4c84cf26527d15e63c0793118bb26ea29e4bfb963b1b9bfadb76888f59bb7837"
 metafile = true
