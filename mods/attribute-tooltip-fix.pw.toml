@@ -1,0 +1,13 @@
+name = "Attribute Tooltip Fix"
+filename = "attributetooltipfix-forge-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "613363fc40cd1ac3754e1cdbc7e3d0f698506f57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046991
+project-id = 658833
