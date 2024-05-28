@@ -419,6 +419,11 @@ hash = "edeefca9053ee0da1511185568d0241798273fb7d03ed09f7b5fd3dbbbc582bb"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "8ee03cc11e08cc40ada8804d1e7b7373fcd5b7c2ee0f84b470cdbbbf7fab038d"
 metafile = true
