@@ -1,0 +1,13 @@
+name = "EnderIO Modern Unofficial"
+filename = "EnderIOUnofficial-1.20.1-6.0.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01b9ca9b50a23034d9871514222e558023051069"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5378833
+project-id = 1017801

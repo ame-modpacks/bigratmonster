@@ -374,6 +374,11 @@ hash = "ef7e7ce8131959ca45add7ec72a6ab8abcab45f8f2eda154dfeb0bba3c7e5c1e"
 metafile = true
 
 [[files]]
+file = "mods/enderiou.pw.toml"
+hash = "bf3c62c9935b5cdc53b1845495dba0f1a4770f0904019429075cdece4cdfddd6"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
 metafile = true
