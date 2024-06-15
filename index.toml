@@ -119,6 +119,10 @@ file = "config/openloader/data/xp management v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "7557e4c73976a9c41a4b310fb2d1ab2408528ef6a17707ec8d828802a6f1589e"
 
 [[files]]
+file = "kubejs/server_scripts/alloys.js"
+hash = "d4dbf9d5be56832a62d0d948b5224fca421106a763471598d5f4dc9ccd8c83b8"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
